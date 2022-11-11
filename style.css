@@ -1,0 +1,27 @@
+.container {
+    width: 500px;
+    height: 300px;
+    background-color: rgb(31, 0, 108);
+    border-radius: 21px;
+    box-shadow: 10px 5px 5px red;
+    margin: auto;
+}
+
+.header__wrapper {
+    padding: 20px 0;
+}
+
+.header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+}
+
+.main__content__wrapper {
+    padding: 10px 30px;
+}
+
+.main__content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+}
